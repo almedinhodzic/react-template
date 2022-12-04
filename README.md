@@ -1,4 +1,4 @@
-## Download the starter kit
+## Download template
 
 npx degit https://github.com/almedinhodzic/react-template my-app
 
